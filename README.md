@@ -1,4 +1,4 @@
-# Gpg_Keys_To_Yubikey
+# Yubikey Gpg & Ssh 🔑
 
 The following is a simple guide with console outputs to remember my self how to:
 - Generate gpg keys
@@ -14,11 +14,7 @@ The following is a simple guide with console outputs to remember my self how to:
 ```
 ---
 
-
-# Yubikey Gpg & Ssh 🔑
-
 ## Table of Contents
-=================
 
 * [Yubikey Gpg &amp; Ssh <g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji>](#yubikey-gpg--ssh-)
    * [1 PreConf:](#1-preconf)
@@ -30,7 +26,6 @@ The following is a simple guide with console outputs to remember my self how to:
       * [2.1 Require Touch:](#21-require-touch)
       * [2.2 Add to conf.fish for Ssh:](#22-add-to-conffish-for-ssh)
 
-<!-- Created by https://github.com/ekalinin/github-markdown-toc -->
 ## 1 PreConf:
 
 ### 1.1 Init
