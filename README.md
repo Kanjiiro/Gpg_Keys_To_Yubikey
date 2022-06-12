@@ -5,13 +5,12 @@ The following is a simple guide with console outputs to remember my self how to:
 - Move them to a new youbikey 
 ---
 
-## Todo
+## ToDo
 
-```
--[ ] Write better documentation
--[ ] Copy full terminal outputs
--[ ] Write part. 2 (how to move to yubikeys)
-```
+- [ ] Write better documentation
+- [ ] Copy full terminal outputs
+- [ ] Write part. 2 (how to move to yubikeys)
+
 ---
 
 ## Table of Contents
